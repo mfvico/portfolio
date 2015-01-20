@@ -1,6 +1,7 @@
 import Ember from 'ember';
 
-var head = "home page"
+var home = "Welcome to the home page!"
 
 export default Ember.Route.extend({
+  home
 });
